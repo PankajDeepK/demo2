@@ -1,2 +1,2 @@
 # demo2
-A sample repository
+A sample repository    Author: PDK
